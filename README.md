@@ -1,9 +1,9 @@
 # AuthPage
 
-AuthPage is a website with login and registration made in vanilla HTML, CSS, and JavaScript, which can show dumm data in login in and registration view.
+AuthPage is a website to login and registration made in vanilla HTML, CSS, and JavaScript, which can show dummy data in login in and registration view.
 
 # AuthPage preview
-
+- Click on login to see the pop-up login interface.
 # Start overview
 
 ![image](https://github.com/anamiikajha/AuthPage/assets/89740849/44f7b40e-84b5-4c70-bb9e-ce1b1697f718)
