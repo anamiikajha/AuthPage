@@ -4,6 +4,7 @@ AuthPage is a website to login and registration made in vanilla HTML, CSS, and J
 
 # AuthPage preview
 - Click on login to see the pop-up login interface.
+- Login and registration interface can be swapped interchangeably by a click.
 # Start overview
 
 ![image](https://github.com/anamiikajha/AuthPage/assets/89740849/44f7b40e-84b5-4c70-bb9e-ce1b1697f718)
