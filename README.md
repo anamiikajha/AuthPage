@@ -1,5 +1,6 @@
 # AuthPage
-AuthPage is a simple authentication page for web applications, providing user login and registration functionality.
+- AuthPage is a simple authentication page for web applications, providing user login and registration functionality.
+
 It is made in vanilla HTML, CSS, and JavaScript, which can show dummy data in login in and registration view.
 
 # AuthPage preview
