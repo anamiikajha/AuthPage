@@ -1,9 +1,9 @@
-# AuthPage
-- AuthPage is a simple landing page for web applications, providing user login and registration interface.
+# logonPage
+- logonPage is a simple landing page for web applications, providing user login and registration interface.
 
 - It is made in vanilla HTML, CSS, and JavaScript, which can show dummy data in login in and registration view.
 
-# AuthPage preview
+# logonPage preview
 - Click on login to see the pop-up login interface.
 - Login and registration interface can be swapped by a click.
 # Start overview
