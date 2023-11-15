@@ -12,10 +12,14 @@
 
 # Regisration overview
 
+ ![image](https://github.com/anamiikajha/AuthPage/assets/89740849/70483023-a0c9-41fe-98c9-0252f252b071)
+
  ![image](https://github.com/anamiikajha/AuthPage/assets/89740849/5f8e3c40-b9ca-454d-a4bf-5998e3f110a5)
  
 # Login overview
 
+  ![image](https://github.com/anamiikajha/AuthPage/assets/89740849/fa06c57e-bee0-42b4-9343-c7803d42e3a3)
+  
   ![image](https://github.com/anamiikajha/AuthPage/assets/89740849/c9f441ba-d0dc-4f3c-83e1-2f02f31a2b86)
 
 
